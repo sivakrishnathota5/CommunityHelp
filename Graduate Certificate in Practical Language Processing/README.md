@@ -2,7 +2,7 @@
 
 ### Business problem statement
 
-![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/businessproblemstatementnlp?raw=true)
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/businessproblemstatementnlp.png?raw=true)
 
 
 # About Dataset  – Category Classification
