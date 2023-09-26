@@ -18,6 +18,7 @@ Community help is a social network website based on Singapore to connect group o
 
 * Similar like whatsup groups can be created in this application.
 
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/Application%20Flow%20Chart.png?raw=true)
 
 
 
