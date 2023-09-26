@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/businessproblemstatementnlp.png?raw=true)
 
-
+# =========== Problem Statement :1 ===========
 # About Dataset  – Category Classification
 ### Context
 This dataset contains more than 800k article from 2012 to 2022 from This is one of the biggest news datasets and can serve as a benchmark for a variety of computational linguistic tasks
@@ -33,5 +33,18 @@ This dataset contains more than 800k article from 2012 to 2022 from This is one 
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/categoryclassificationdataset3.png?raw=true)
 
 
+# =========== END ===========
+#
+# =========== Problem Statement :2 ===========
+
+
+
+# =========== END ===========
+#
+# =========== Problem Statement :3 ===========
+
+
+
+# =========== END ===========
 
 
