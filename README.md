@@ -1,5 +1,7 @@
 # CommunityHelp
 Social Media Network 
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/communityhelp.jpg?raw=true)
+
 
 # About The Project
 Community help is a social network website based on Singapore to connect group of people and share useful information like other social network people can post tweets, likes and share text, images & videos through this website. Unlike other social networks, there is special feature which focus more on community interaction to help people and news sharing. 
@@ -17,6 +19,8 @@ Community help is a social network website based on Singapore to connect group o
 * Based on history and interest user will get notifications on mobile app by tracking user location.
 
 * Similar like whatsup groups can be created in this application.
+
+# CommunityHelp
 
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/Application%20Flow%20Chart.png?raw=true)
 
