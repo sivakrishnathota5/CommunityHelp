@@ -1,5 +1,6 @@
 # CommunityHelp
 Social Media Network 
+
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/communityhelp.jpg?raw=true)
 
 
@@ -25,15 +26,16 @@ Community help is a social network website based on Singapore to connect group o
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/Application%20Flow%20Chart.png?raw=true)
 
 #   
-#  
 # 
+#
 
-# How to Configure (Graduate Certificate in Practical Language Processing)
+# How to Configure (Graduate Certificate in Practical Language Processing Project)
+
+[watch this repo](https://github.com/user/repository/subscription)
 
 
 
-
-# How to Configure (Graduate Certificate in Intelligent Reasoning Systems)
+# How to Configure (Graduate Certificate in Intelligent Reasoning Systems Project)
 
 
 
