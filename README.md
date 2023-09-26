@@ -20,9 +20,20 @@ Community help is a social network website based on Singapore to connect group o
 
 * Similar like whatsup groups can be created in this application.
 
-# CommunityHelp
+# Application Flow Phase1 
 
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/Application%20Flow%20Chart.png?raw=true)
+
+#   
+#  
+# 
+
+# How to Configure (Graduate Certificate in Practical Language Processing)
+
+
+
+
+# How to Configure (Graduate Certificate in Intelligent Reasoning Systems)
 
 
 
