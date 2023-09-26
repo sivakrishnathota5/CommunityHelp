@@ -29,13 +29,14 @@ Community help is a social network website based on Singapore to connect group o
 # 
 #
 
-# How to Configure (Graduate Certificate in Practical Language Processing Project)
+# How to Configure(Graduate Certificate in Practical Language Processing Project)
 
-[watch this repo](https://github.com/user/repository/subscription)
+[watch this repo : Graduate Certificate in Practical Language Processing](https://github.com/sivakrishnathota5/CommunityHelp/tree/main/Graduate%20Certificate%20in%20Practical%20Language%20Processing)
 
 
+#How to Configure (Graduate Certificate in Intelligent Reasoning Systems Project)
 
-# How to Configure (Graduate Certificate in Intelligent Reasoning Systems Project)
+[watch this repo : Graduate Certificate in Intelligent Reasoning Systems Project](https://github.com/sivakrishnathota5/CommunityHelp/tree/main/Graduate%20Certificate%20in%20Intelligent%20Reasoning%20Systems)
 
 
 
