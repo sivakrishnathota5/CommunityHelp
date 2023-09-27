@@ -50,7 +50,10 @@ Class imbalance is a common problem in machine learning that occurswhen the dist
 # =========== END ===========
 #
 # =========== Problem Statement :3 ===========
-
+### Dataset  -  Machine-Translation-English-to-Hindi
+### Context 
+The dataset consist of 1000000 English phrases along with their Hindi translations. The data is given in utf-8 format.
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/hinditoenglishdataset.png?raw=true) 
 
 
 # =========== END ===========
