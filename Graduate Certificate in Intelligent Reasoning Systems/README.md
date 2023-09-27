@@ -32,7 +32,7 @@ we need  work to prevent the spread of illegal child sexual abuse material (refe
 ### Abuse Language Classification 
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/BinaryCategoryClassificationresult.png?raw=true)
 ### Abuse Image Classification
-![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/ImageClassificationresult.png?raw=true)
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/ImageClassificationresult2.png?raw=true)
 # =========== END ===========
 #
 
