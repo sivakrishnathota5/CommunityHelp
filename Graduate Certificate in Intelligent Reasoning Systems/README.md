@@ -1,42 +1,38 @@
-# CommunityHelp
-Social Media Network 
+# Graduate Certificate in Intelligent Reasoning Systems
 
-![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/communityhelp.jpg?raw=true)
+### Business problem statement
+
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/reasoningsystemproblemstatement.png?raw=true)
+
+# =========== Problem Statement :1 ===========
+### Dataset  - Binary Category Classification 
+[DataSet : Click here to open dataset](https://drive.google.com/drive/folders/1__5-Z6EIwUizLGNOU4lUix2-ibGH-jso?usp=sharing)
+* Process the train data carefully as the data has emojis, English texts, some symbols, links etc. 
+  Also,  note that the language detected often is not correct so don't rely blindly on it.
+* Features like detected language of the text, total likes, total reports and views along with text 
+  are also provided. These features were not included by me during the training process.
+* Cleaned the data(remove emojis, punctuations etc.)
+* Trim the data acc to text lengths.
 
 
-# About The Project
-Community help is a social network website based on Singapore to connect group of people and share useful information like other social network people can post tweets, likes and share text, images & videos through this website. Unlike other social networks, there is special feature which focus more on community interaction to help people and news sharing. 
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/BinaryCategoryClassificationdataset1.png?raw=true)
 
-### Features : 
+### About Dataset  - Image Classification 
+we need  work to prevent the spread of illegal child sexual abuse material (referred to as CSAM). Child safety organizations and governments rightly expect — and in many cases require — us to take action to remove it from our systems. Which is why, when we find CSAM on our platforms, we remove it, report it and often take the step to suspend the account.
 
-* User is allowed to find near by shops/food courts in and around the community and can also explore on more  offers.   
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/ImageClassificationdataset2.png?raw=true)
 
-* Allow users to find friends in near communities.
 
-* Merchants will receive the notifications if a user request for particular item from near by communities
+### Flowchart 
 
-* Seller/Buyer can post and get the news or offers from near by community.
+  ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/ApplicationFlowChart-Reasoning.png?raw=true)
 
-* Based on history and interest user will get notifications on mobile app by tracking user location.
 
-* Similar like whatsup groups can be created in this application.
+### Model Result
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/categoryclassificationresult.png?raw=true)
 
-# Application Flow Phase1 
 
-![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/Application%20Flow%20Chart.png?raw=true)
-
-#   
-# 
+# =========== END ===========
 #
-
-# How to Configure(Graduate Certificate in Practical Language Processing Project)
-
-[Watch this repo : Graduate Certificate in Practical Language Processing](https://github.com/sivakrishnathota5/CommunityHelp/tree/main/Graduate%20Certificate%20in%20Practical%20Language%20Processing)
-
-
-# How to Configure (Graduate Certificate in Intelligent Reasoning Systems Project)
-
-[Watch this repo : Graduate Certificate in Intelligent Reasoning Systems Project](https://github.com/sivakrishnathota5/CommunityHelp/tree/main/Graduate%20Certificate%20in%20Intelligent%20Reasoning%20Systems)
-
 
 
