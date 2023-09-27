@@ -29,9 +29,10 @@ we need  work to prevent the spread of illegal child sexual abuse material (refe
 
 
 ### Model Result
-![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/categoryclassificationresult.png?raw=true)
-
-
+### Abuse Language Classification 
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/BinaryCategoryClassificationresult.png?raw=true)
+### Abuse Image Classification
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/ImageClassificationresult.png?raw=true)
 # =========== END ===========
 #
 
