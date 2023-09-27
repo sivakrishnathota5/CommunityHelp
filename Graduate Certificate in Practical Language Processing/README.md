@@ -5,7 +5,7 @@
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/businessproblemstatementnlp.png?raw=true)
 
 # =========== Problem Statement :1 ===========
-# About Dataset  – Category Classification
+### About Dataset  – Category Classification
 ### Context
 This dataset contains more than 800k article from 2012 to 2022 from This is one of the biggest news datasets and can serve as a benchmark for a variety of computational linguistic tasks
 ### Content
@@ -36,8 +36,16 @@ This dataset contains more than 800k article from 2012 to 2022 from This is one 
 # =========== END ===========
 #
 # =========== Problem Statement :2 ===========
+### Dataset  -  Sentiment analysis 
+### Multi-Class Text Emotion Analysis
 
+After deep pre-processing of tweets in done (lemmatization, removal of stop words, etc.)
+This dataset is comprised of 62,015 tweets from Twitter with labelled emotions of five classes
 
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/sentimentanalysis.png?raw=true)
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/sentimentanalysiscount.png?raw=true)
+
+Class imbalance is a common problem in machine learning that occurswhen the distribution of examples within a dataset is skewed or biased. This can lead to a bias in the trained model, which can negatively impact its performance
 
 # =========== END ===========
 #
