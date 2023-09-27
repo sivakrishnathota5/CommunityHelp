@@ -40,6 +40,7 @@ This dataset contains more than 800k article from 2012 to 2022 from This is one 
 ### Dataset  -  Sentiment analysis 
 ### Multi-Class Text Emotion Analysis
 [DataSet : Click here to open dataset](https://drive.google.com/drive/folders/1pvuX7ywWrLh1__mzw2FUWW5oeL-GoHlt?usp=sharing)
+
 After deep pre-processing of tweets in done (lemmatization, removal of stop words, etc.)
 This dataset is comprised of 62,015 tweets from Twitter with labelled emotions of five classes
 
@@ -52,7 +53,8 @@ Class imbalance is a common problem in machine learning that occurswhen the dist
 #
 # =========== Problem Statement :3 ===========
 ### Dataset  -  Machine-Translation-English-to-Hindi
-[DataSet : Click here to open dataset](https://drive.google.com/file/d/1chdaPgIidg3o-iiNtma3-D7jGJ_bkTlS/view?usp=sharing)
+[DataSet-1 : Click here to open dataset](https://drive.google.com/file/d/1chdaPgIidg3o-iiNtma3-D7jGJ_bkTlS/view?usp=sharing)
+[DataSet-2 : Click here to open dataset]
 (https://drive.google.com/file/d/1dA25x8je_HhkzsQDhYMya10Q_E5PM3V0/view?usp=sharing)
 ### Context 
 The dataset consist of 1000000 English phrases along with their Hindi translations. The data is given in utf-8 format.
