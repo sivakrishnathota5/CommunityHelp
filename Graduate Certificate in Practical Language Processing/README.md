@@ -33,6 +33,9 @@ This dataset contains more than 800k article from 2012 to 2022 from This is one 
 ### Data Set Category Classification (Model -3)
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/categoryclassificationdataset3.png?raw=true)
 
+### Model Result
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/categoryclassificationresult.png?raw=true)
+
 
 # =========== END ===========
 #
@@ -49,6 +52,9 @@ This dataset is comprised of 62,015 tweets from Twitter with labelled emotions o
 
 Class imbalance is a common problem in machine learning that occurswhen the distribution of examples within a dataset is skewed or biased. This can lead to a bias in the trained model, which can negatively impact its performance
 
+### Model Result
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/sentimentresult.png?raw=true)
+
 # =========== END ===========
 #
 # =========== Problem Statement :3 ===========
@@ -62,6 +68,8 @@ Class imbalance is a common problem in machine learning that occurswhen the dist
 The dataset consist of 1000000 English phrases along with their Hindi translations. The data is given in utf-8 format.
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/hinditoenglishdataset.png?raw=true) 
 
+### Model Result
+![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/translationresult.png?raw=true)
 
 # =========== END ===========
 
