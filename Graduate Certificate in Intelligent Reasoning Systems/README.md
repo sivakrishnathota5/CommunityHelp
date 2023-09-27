@@ -6,7 +6,12 @@
 
 # =========== Problem Statement :1 ===========
 ### Dataset  - Binary Category Classification 
-[DataSet : Click here to open dataset](https://drive.google.com/drive/folders/1__5-Z6EIwUizLGNOU4lUix2-ibGH-jso?usp=sharing)
+
+[DataSet : Click here to open dataset]
+(https://drive.google.com/drive/folders/10Ocw76AM8JF0BZ5wWMHDD8icra5fWj7s?usp=sharing)
+[DataSet : Click here to open dataset]
+(https://drive.google.com/drive/folders/1tX8UOjx19_yjs6QRrjJPmGqlr5dRlY-H?usp=sharing)
+
 * Process the train data carefully as the data has emojis, English texts, some symbols, links etc. 
   Also,  note that the language detected often is not correct so don't rely blindly on it.
 * Features like detected language of the text, total likes, total reports and views along with text 
@@ -18,6 +23,10 @@
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/BinaryCategoryClassificationdataset1.png?raw=true)
 
 ### About Dataset  - Image Classification 
+
+[DataSet : Click here to open dataset]
+(https://drive.google.com/drive/folders/1rQaGot_asF45Xz95zC-K0D73fv64Mjb-?usp=sharing)
+
 we need  work to prevent the spread of illegal child sexual abuse material (referred to as CSAM). Child safety organizations and governments rightly expect — and in many cases require — us to take action to remove it from our systems. Which is why, when we find CSAM on our platforms, we remove it, report it and often take the step to suspend the account.
 
 ![alt text](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Images/ImageClassificationdataset2.png?raw=true)
