@@ -14,7 +14,7 @@ Notes:
 - Different than the popular open source chatbot framework, Rasa, where NLU is based on intent and entities, whereas dialog management is based on sequence/LSTM prediction. 
 - Conceptually it is similar to Microsoft's QnA Maker. But the big difference is that, if you get whole this whole github code-base, your models would be local. Nothing on Server. So better security especially for sensitive data chatbots like HR or Finance.
 
-Copyright (C) 2019 Yogesh H Kulkarni
+Copyright (C) 2023 Thota Siva Krishna 
 
 ## To Dos
 <!-- *	[Done] Make beamer 3hr hands-on course, make ipynb for demo, do meetup/seminars -->
@@ -43,7 +43,7 @@ Copyright (C) 2019 Yogesh H Kulkarni
 * Open http://127.0.0.1:8080/ in the browser
 * Start chating
 
-![chatwindow](https://github.com/yogeshhk/FAQChatbot/blob/master/images/faqchatbot.png)
+![chatwindow](https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Graduate%20Certificate%20in%20Practical%20Language%20Processing/FAQChatbot-master/images/faqchatbot.png)
 
 ## Dependencies:
 * Needs Python 3.6, numpy, scipy, sklearn
@@ -53,4 +53,4 @@ Copyright (C) 2019 Yogesh H Kulkarni
 * Banking FAQ Bot [code](https://github.com/MrJay10/banking-faq-bot)
 
 ## Disclaimer:
-* Author (yogeshkulkarni@yahoo.com) gives no guarantee of the results of the program. It is just a fun script. Lot of improvements are still to be made. So, don’t depend on it at all.
+* Author (sivakrishnathota5@gmail.com) .
