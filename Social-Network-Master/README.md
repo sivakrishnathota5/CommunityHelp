@@ -1,8 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
@@ -15,16 +10,10 @@
   <h3 align="center">Singapore Community Help</h3>
 
   <p align="center">
-    A social network inspired by reddit
     <br />
-    <a href="https://elmer.pythonanywhere.com"><strong>Explore the app »</strong></a>
+    <a href="http://51.79.71.46:8000/"><strong>Explore the app »</strong></a>
     <br />
     <br />
-    <a href="https://elmer.pythonanywhere.com">View Demo</a>
-    ·
-    <a href="https://github.com/thetruefuss/elmer/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/thetruefuss/elmer/issues">Request Feature</a>
   </p>
 </p>
 
@@ -69,27 +58,6 @@ An open source social network inspired by [reddit](https://www.reddit.com/) buil
 - [Django Rest Framework](http://www.django-rest-framework.org/) 3.8.x
 - [Twitter Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/) 4.x
 - [jQuery](https://api.jquery.com/) 3.x
-
-
-
-### Screenshots
-
-Check the website at [https://elmer.pythonanywhere.com](https://elmer.pythonanywhere.com)
-
-#### Welcome Page
-[![Elmer][product1-screenshot]](https://elmer.pythonanywhere.com)
-
-#### Home Page
-[![Elmer][product2-screenshot]](https://elmer.pythonanywhere.com)
-
-#### Post Detail Page
-[![Elmer][product3-screenshot]](https://elmer.pythonanywhere.com)
-
-#### Profile Page
-[![Elmer][product4-screenshot]](https://elmer.pythonanywhere.com)
-
-#### Create Post Page
-[![Elmer][product5-screenshot]](https://elmer.pythonanywhere.com)
 
 
 
@@ -184,7 +152,7 @@ Verify the deployment by navigating to [http://127.0.0.1:8000](http://127.0.0.1:
 
 ## Roadmap
 
-See the [open issues](https://github.com/thetruefuss/elmer/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/sivakrishnathota5/CommunityHelp/issues) for a list of proposed features (and known issues).
 
 
 
@@ -208,32 +176,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 <p>
-  Send me an email to <a href="mailto:alisheikh1114@gmail.com">alisheikh1114@gmail.com</a>
+  Send me an email to <a href="mailto:sivakrishnathota5@gmail.com">sivakrishnathota5@gmail.com</a>
   <br />
   Find me online:
-  <a href="https://www.linkedin.com/in/iamalisaleh">LinkedIn</a> &bull;
-  <a href="https://twitter.com/iamalisaleh">Twitter</a> &bull;
-  <a href="https://www.facebook.com/iamalisaleh">Facebook</a> &bull;
-  <a href="https://www.instagram.com/iamalisaleh">Instagram</a> &bull;
-  <a href="https://thetruefuss.github.io/portfolio">Portfolio</a>
+  <a href="https://www.linkedin.com/in/sivakrishnathota/">LinkedIn</a> &bull;
 </p>
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/thetruefuss/elmer.svg?style=flat
-[contributors-url]: https://github.com/thetruefuss/elmer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/thetruefuss/elmer.svg?style=flat
-[forks-url]: https://github.com/thetruefuss/elmer/network/members
-[stars-shield]: https://img.shields.io/github/stars/thetruefuss/elmer.svg?style=flat
-[stars-url]: https://github.com/thetruefuss/elmer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/thetruefuss/elmer.svg?style=flat
-[issues-url]: https://github.com/thetruefuss/elmer/issues
-[license-shield]: https://img.shields.io/github/license/thetruefuss/elmer.svg?style=flat
-[license-url]: https://github.com/thetruefuss/elmer/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=social&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/iamalisaleh
-[product1-screenshot]: https://i.ibb.co/vHPWBcD/welcome-page.png
-[product2-screenshot]: https://i.ibb.co/T2WYrTc/home-page.png
-[product3-screenshot]: https://i.ibb.co/6847KkN/subject-detail-page.png
-[product4-screenshot]: https://i.ibb.co/C6MgsDD/profile-page.png
-[product5-screenshot]: https://i.ibb.co/FWPk3CD/create-subject-page.png
+
+[linkedin-url]: https://www.linkedin.com/in/sivakrishnathota/
