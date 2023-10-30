@@ -1,10 +1,10 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield][linkedin-url]
 
 <br />
 
 <p align="center">
   <a href="https://github.com/thetruefuss/elmer">
-    <img src="https://raw.githubusercontent.com/thetruefuss/elmer/master/static/img/elmer_logo.png" alt="Logo" width="50" height="50">
+    <img src="https://github.com/sivakrishnathota5/CommunityHelp/blob/main/Social-Network-Master/static/img/logos.png" alt="Logo" width="50" height="50">
   </a>
 
   <h3 align="center">Singapore Community Help</h3>
@@ -76,7 +76,7 @@ An open source social network inspired by [reddit](https://www.reddit.com/) buil
 Create new directory:
 
 ```shell
-$ mkdir elmer && cd elmer
+$ mkdir CommunityHelp && cd CommunityHelp
 ```
 
 Create new virtual environment:
@@ -95,7 +95,7 @@ $ venv/Scripts/activate  (For Windows)
 Clone this repository:
 
 ```shell
-$ git clone https://github.com/thetruefuss/elmer.git src && cd src
+$ git clone https://github.com/sivakrishnathota5/CommunityHelp.git src && cd src
 ```
 
 Install requirements:
